@@ -97,15 +97,6 @@
 
 
 
-
-# 24. Count frequency of each character
-x = " python programe"
-
-
-
-
-# 25. Find first non-repeating character
-
 # 26. Count words in a sentence
 # sentence = "learning python & practicing python"
 # words = sentence.split()
