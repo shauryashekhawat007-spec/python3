@@ -97,6 +97,7 @@
 
 
 
+<<<<<<< HEAD
 
 # 24. Count frequency of each character
 
@@ -116,6 +117,8 @@ print(freq)
 
 # 25. Find first non-repeating character
 
+=======
+>>>>>>> d461ac5c225a74e61a5546fcb591b36c4fff5a84
 # 26. Count words in a sentence
 # sentence = "learning python & practicing python"
 # words = sentence.split()
